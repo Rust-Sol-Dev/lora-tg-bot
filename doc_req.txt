@@ -1,0 +1,5 @@
+-r requirements.txt
+
+furo
+sphinx_copybutton
+git+https://github.com/eternnoir/pyTelegramBotAPI.git
